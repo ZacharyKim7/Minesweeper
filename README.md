@@ -1,2 +1,2 @@
-# Chess
-A standard, playable game of chess.
+# Minesweeper
+A standard game of Minesweeper
